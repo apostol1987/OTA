@@ -4,7 +4,7 @@
 "news_url":"https://t.me/havocunofficial",
 "addons":[
 {"title":"GApps","summary":"Official Open GApps","url":"http://opengapps.org"},
-{"title":"TWRP","summary":"Recommand TWRP for Mi Pad 4 and Mi Pad 4 Plus","url":"https://mega.nz/#!qcA2BQIJ!xiBnnC0B4Z7fqpARbIY2ARdDY4hJLZgsriJsWaCCzNQ"},
+{"title":"TWRP","summary":"TWRP for Redmi 5 Plus","url":"https://mega.nz/#!qcA2BQIJ!xiBnnC0B4Z7fqpARbIY2ARdDY4hJLZgsriJsWaCCzNQ"},
 {"title":"Magisk","summary":"Systemless Root Installer","url":"https://github.com/topjohnwu/Magisk/releases/download/v18.0/Magisk-v18.0.zip"}],
 "developer":"Apostol1987",
 "developer_url": "https://t.me/blacksuan19",
