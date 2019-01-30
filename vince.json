@@ -9,7 +9,7 @@
 "developer":"Apostol1987",
 "developer_url": "https://t.me/blacksuan19",
 "forum_url": "https://forum.xda-developers.com/redmi-note-5/development/rom-havocos-t3807696",
-"changelog": "*fix battery info crash *fix advanced controls app not showing up",
+"changelog": "- BeastROMs v.1.1\n- New own bootanimation (thx to @SerJo87)\n- Added updated Google Feed lib from Pixel3 launcher\n- Added 5th number row to keyboard\n- Animation of switching between the power menu and the extended power menu\n- Rework QS columns and rows count config\n- Added back QS hide label\n- Added Reboot/Recovery QS Tile\n- QS auto brightness toggle rework\n- Only show bluetooth icon when connected && enabled\n- Removed not working switches from statusbar tuner\n- Improve system stability and performance",
 "filename":"Havoc-OS-v2.1-20190130-vince-Official.zip",
 "build_date":"20190130",
 "filesize":"575017985",
