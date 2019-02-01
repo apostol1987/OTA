@@ -9,7 +9,7 @@
 "developer":"Apostol1987",
 "developer_url": "https://t.me/blacksuan19",
 "forum_url": "https://forum.xda-developers.com/redmi-note-5/development/rom-havocos-t3807696",
-"changelog": "",
+"changelog": "* Selinux Enforcing",
 "filename":"Havoc-OS-v2.1-20190130-vince-Official.zip",
 "build_date":"20190130",
 "filesize":"575017985",
