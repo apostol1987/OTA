@@ -4,7 +4,7 @@
 "addons":[
 {"title":"GApps","summary":"Official Open GApps","url":"http://opengapps.org"},
 {"title":"Magisk 18.1","summary":"Systemless Root Installer","url":"https://github.com/topjohnwu/Magisk/releases/download/v18.1/Magisk-v18.1.zip"},
-{"title":"Magisk Uninstaller","summary":"Systemless Root Installer","url":"https://github.com/topjohnwu/Magisk/releases/download/v18.1/Magisk-uninstaller-20190204.zip"}],
+{"title":"Magisk Uninstaller 02.04.2019","summary":"Uninstaller Magisk","url":"https://github.com/topjohnwu/Magisk/releases/download/v18.1/Magisk-uninstaller-20190204.zip"}],
 "developer":"Dr.Watson",
 "developer_url": "https://t.me/blacksuan19",
 "forum_url": "https://forum.xda-developers.com/redmi-note-5/development/rom-havocos-t3807696",
