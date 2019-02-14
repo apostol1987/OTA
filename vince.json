@@ -3,7 +3,8 @@
 "news_url":"https://t.me/Havoc_OS",
 "addons":[
 {"title":"GApps","summary":"Official Open GApps","url":"http://opengapps.org"},
-{"title":"Magisk 18.1","summary":"Systemless Root Installer","url":"https://github.com/topjohnwu/Magisk/releases/download/v18.1/Magisk-v18.1.zip"},
+{"title":"Magisk Manager v7.0.0","summary":"Magisk Manager","url":"https://github.com/topjohnwu/Magisk/releases/download/manager-v7.0.0/MagiskManager-v7.0.0.apk"},
+{"title":"Magisk v18.1","summary":"Systemless Root Installer","url":"https://github.com/topjohnwu/Magisk/releases/download/v18.1/Magisk-v18.1.zip"},
 {"title":"Magisk Uninstaller 02.04.2019","summary":"Uninstaller Magisk","url":"https://github.com/topjohnwu/Magisk/releases/download/v18.1/Magisk-uninstaller-20190204.zip"}],
 "developer":"Dr.Watson",
 "developer_url": "https://t.me/blacksuan19",
