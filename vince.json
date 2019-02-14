@@ -2,6 +2,7 @@
 "website_url":"https://sourceforge.net//projects//havoc-os//",
 "news_url":"https://t.me/Havoc_OS",
 "addons":[
+{"title":"CPL v1.13.2","summary":"Классный лаунчер с широкой кастомизацией интерфейса","url":"https://drive.google.com/open?id=1FVZG3nC4MFGrHlp4p_06rgul-8pETTFJ"},
 {"title":"GApps","summary":"Official Open GApps","url":"http://opengapps.org"},
 {"title":"Magisk Manager v7.0.0","summary":"Magisk Manager","url":"https://github.com/topjohnwu/Magisk/releases/download/manager-v7.0.0/MagiskManager-v7.0.0.apk"},
 {"title":"Magisk v18.1","summary":"Systemless Root Installer","url":"https://github.com/topjohnwu/Magisk/releases/download/v18.1/Magisk-v18.1.zip"},
