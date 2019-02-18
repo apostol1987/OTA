@@ -10,11 +10,28 @@
 "developer":"Dr.Watson",
 "developer_url": "https://t.me/Нет пока канала в телеграмм",
 "forum_url": "https://4pda.ru/forum/index.php?showtopic=887150&st=23600",
-"changelog": "",
-"filename":"Havoc-OS-v2.2-20190213-vince-Official.zip",
-"build_date":"20190213",
-"filesize":"606109127",
-"md5":"8014e228f592b69ffea73fdc6525b666",
-"url":"https://sourceforge.net/projects/mido-port/files/Havoc-OS-Pie/Havoc-OS-v2.1-20190126-mido-Unofficial.zip/download",
+"changelog": "Изменения от разработчика 15-02-19:\n
+* Added new ambient display implementation\n
+* Added theme background color picker\n
+* Added AOD on charge\n
+* Added accent option for QS panel\n
+* Added haptic feedback duration for OP gestures\n
+* Added Home button wake for some devices\n
+* Reorganised Havoc Settings\n
+* Improved UI\n
+* Removed ambient music from lockscreen\n
+* Fixed toasts with RTL languages\n
+* Fixed QS gradient when custom header is disabled\n
+* Fixed music ticker glitches\n
+* Fixed compact navbar layout\n
+* Fixed autofill dialog on dark themes\n
+* Fixed wellbeing dark theme\n
+  --Изменения от разработчика от меня--\n
+  Перевод новых настроек",
+"filename":"Havoc-OS-v2.2-20190217-vince-Official.zip",
+"build_date":"20190217",
+"filesize":"606520055",
+"md5":"3d14aa1ed4287e808d661c50b562c2f0",
+"url":"https://dl.dropbox.com/s/d0jqa3yl4za4k3c/Havoc-OS-v2.2-20190217-vince-Official.zip",
 "error":false
 }
