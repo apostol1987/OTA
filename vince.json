@@ -10,7 +10,8 @@
 "developer":"Dr.Watson",
 "developer_url": "https://t.me/Нет пока канала в телеграмм",
 "forum_url": "https://4pda.ru/forum/index.php?showtopic=887150&st=23940",
-"changelog": "Изменения от разработчика 15-02-19:\n
+"changelog": "\nИзменения от разработчика 15-02-19:
+* Added new ambient display implementation
 * Added theme background color picker
 * Added AOD on charge
 * Added accent option for QS panel
@@ -25,7 +26,7 @@
 * Fixed compact navbar layout
 * Fixed autofill dialog on dark themes
 * Fixed wellbeing dark theme
-  --Изменения от меня--
+\n--Изменения от меня--
 * Перевод новых настроек",
 "filename":"Havoc-OS-v2.2-20190217-vince-Official.zip",
 "build_date":"20190217",
