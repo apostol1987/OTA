@@ -9,24 +9,24 @@
 {"title":"Magisk Uninstaller 02.04.2019","summary":"Uninstaller Magisk","url":"https://github.com/topjohnwu/Magisk/releases/download/v18.1/Magisk-uninstaller-20190204.zip"}],
 "developer":"Dr.Watson",
 "developer_url": "https://t.me/Нет пока канала в телеграмм",
-"forum_url": "https://4pda.ru/forum/index.php?showtopic=887150&st=23880",
+"forum_url": "https://4pda.ru/forum/index.php?showtopic=887150&st=23940",
 "changelog": "Изменения от разработчика 15-02-19:\n
 * Added new ambient display implementation
-* Added theme background color picker\n
-* Added AOD on charge\n
-* Added accent option for QS panel\n
-* Added haptic feedback duration for OP gestures\n
-* Added Home button wake for some devices\n
-* Reorganised Havoc Settings\n
-* Improved UI\n
-* Removed ambient music from lockscreen\n
-* Fixed toasts with RTL languages\n
-* Fixed QS gradient when custom header is disabled\n
-* Fixed music ticker glitches\n
-* Fixed compact navbar layout\n
-* Fixed autofill dialog on dark themes\n
-* Fixed wellbeing dark theme\n
-  --Изменения от меня--\n
+* Added theme background color picker
+* Added AOD on charge
+* Added accent option for QS panel
+* Added haptic feedback duration for OP gestures
+* Added Home button wake for some devices
+* Reorganised Havoc Settings
+* Improved UI
+* Removed ambient music from lockscreen
+* Fixed toasts with RTL languages
+* Fixed QS gradient when custom header is disabled
+* Fixed music ticker glitches
+* Fixed compact navbar layout
+* Fixed autofill dialog on dark themes
+* Fixed wellbeing dark theme
+  --Изменения от меня--
 * Перевод новых настроек",
 "filename":"Havoc-OS-v2.2-20190217-vince-Official.zip",
 "build_date":"20190217",
