@@ -9,29 +9,18 @@
 {"title":"Magisk Uninstaller 02.04.2019","summary":"Uninstaller Magisk","url":"https://github.com/topjohnwu/Magisk/releases/download/v18.1/Magisk-uninstaller-20190204.zip"}],
 "developer":"Dr.Watson",
 "developer_url": "https://t.me/Нет пока канала в телеграмм",
-"forum_url": "https://4pda.ru/forum/index.php?showtopic=887150&st=23940",
-"changelog": "Изменения от разработчика 15-02-19:
-* Added new ambient display implementation
-* Added theme background color picker
-* Added AOD on charge
-* Added accent option for QS panel
-* Added haptic feedback duration for OP gestures
-* Added Home button wake for some devices
-* Reorganised Havoc Settings
-* Improved UI
-* Removed ambient music from lockscreen
-* Fixed toasts with RTL languages
-* Fixed QS gradient when custom header is disabled
-* Fixed music ticker glitches
-* Fixed compact navbar layout
-* Fixed autofill dialog on dark themes
-* Fixed wellbeing dark theme
-\n--Изменения от меня--
-* Перевод новых настроек",
-"filename":"Havoc-OS-v2.2-20190217-vince-Official.zip",
+"forum_url": "https://4pda.ru/forum/index.php?showtopic=887150&st=24320",
+"changelog": "Все изменения  от разработчика по 25-02-19
+* + Изменения от Dr.Watson-
+1.Обновлены исходники по 25.02.2018.
+2.Новое ядро 3.18.136\n
+3.Пиксель лаунчер изменен на Лаунчер Lawnchair v2 (Полный русский перевод настроек)\n
+4.Исправлено меню настройки индикатора зарядки батареии (пункт в уведомлениях)\n
+5.Исправление перевода доп. настроек и доперевод новых настроек",
+"filename":"Havoc-OS-v2.2-20190226-vince-Official.zip",
 "build_date":"20190217",
-"filesize":"606520055",
-"md5":"3d14aa1ed4287e808d661c50b562c2f0",
-"url":"https://dl.dropbox.com/s/d0jqa3yl4za4k3c/Havoc-OS-v2.2-20190217-vince-Official.zip",
+"filesize":"608937542",
+"md5":"97a6740df7052e92576853000b55984a",
+"url":"https://dl.dropbox.com/s/b9h52d37e5wxtg0/Havoc-OS-v2.2-20190226-vince-Official.zip",
 "error":false
 }
