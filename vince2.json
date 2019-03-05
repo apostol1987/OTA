@@ -8,6 +8,7 @@
       "datetime": 1551657600,
       "id": "0efdb7da1598bfbc34ae9ce70733862332ca95bbd397ffab28f6be7142cf59a8",
       "url": "https://dl.dropbox.com/s/b9h52d37e5wxtg0/Havoc-OS-v2.2-20190226-vince-Official.zip"
+      "changelog": "#update #MiMiX2 #chiron\n\nCurrent build date: 03/01/2019\nfirmware *REQUIRED* : V10.0.2.0\nMinimum recovery required : TWRP 3.2.3 (Wight554's one) or latest OrangeFox (R9.0-1)\n\nChangelog:\n\n- CAF wifi implementation\n- Fixd statusbar clock overlapping after reboot\n- Development settings: allow to choose GPU renderer\n- OneHand mode QS tile\n- Fixed issue with go back to AOD by power button\n- A/B updater: Redesign\n- Other fixes and improvements\n\nDownload: Check OTA or use the direct link: https://sourceforge.net/projects/syberiaos/files/chiron/syberia_chiron-v2.3-20190301-1511-OFFICIAL.zip/download",
     }
   ]
 }
