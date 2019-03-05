@@ -1,1 +1,1 @@
-test
+"changelog": "#update #MiMiX2 #chiron\n\nCurrent build date: 03/01/2019\nfirmware *REQUIRED* : V10.0.2.0\nMinimum recovery required : TWRP 3.2.3 (Wight554's one) or latest OrangeFox (R9.0-1)\n\nChangelog:\n\n- CAF wifi implementation\n- Fixd statusbar clock overlapping after reboot\n- Development settings: allow to choose GPU renderer\n- OneHand mode QS tile\n- Fixed issue with go back to AOD by power button\n- A/B updater: Redesign\n- Other fixes and improvements\n\nDownload",
