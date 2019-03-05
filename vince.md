@@ -1,8 +1,5 @@
 {
   "response": 
-    {
-     bdffdb
-    }
   }
 hgfh
 regeg
