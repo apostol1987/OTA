@@ -4,4 +4,8 @@
       "changelog": "Все изменения от разработчика по 25-02-19"
     }
   ]
-}hgfh
+}
+hgfh
+regeg
+gre
+rge
