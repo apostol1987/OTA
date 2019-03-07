@@ -10,17 +10,17 @@
 "developer":"Dr.Watson",
 "developer_url": "https://t.me/Нет пока канала в телеграмм",
 "forum_url": "https://4pda.ru/forum/index.php?showtopic=887150&st=24320",
-"changelog": "Все изменения от разработчика по 25-02-19
+"changelog": "Все изменения от разработчика по 06-03-19
 * + Изменения от Dr.Watson-
-1.Обновлены исходники по 25.02.2018.\n
-2.Новое ядро 3.18.136\n
-3.Пиксель лаунчер изменен на Лаунчер Lawnchair v2 (Полный русский перевод настроек)\n
-4.Исправлено меню настройки индикатора зарядки батареии (пункт в уведомлениях)\n
-5.Исправление перевода доп. настроек и доперевод новых настроек",
-"filename":"Havoc-OS-v2.2-20190226-vince-Official.zip",
-"build_date":"20190226",
-"filesize":"608937542",
-"md5":"97a6740df7052e92576853000b55984a",
-"url":"https://dl.dropbox.com/s/b9h52d37e5wxtg0/Havoc-OS-v2.2-20190226-vince-Official.zip",
+Изменения по 06.03.2019
+1. Доперевод настроек
+2. Добавлен плеер Musicolet
+3. Добавлены кодеки Aptx и AptxHD
+4.Исправление перевода доп. настроек и доперевод новых настроек",
+"filename":"Havoc-OS-v2.3-20190306-vince-Official.zip",
+"build_date":"20190306",
+"filesize":"613695734",
+"md5":"b8651997415d8e1ad559d56767895b69",
+"url":"https://drive.google.com/open?id=1CeOSuYDE6kp6l8SHx_Bwx4LDiByig9w2",
 "error":false
 }
