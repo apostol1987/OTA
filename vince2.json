@@ -2,8 +2,8 @@
   "response": [
     {
       "filename": "Havoc-OS-v2.3-20190306-vince-Official.zip",
-      "version": "v",
-      "romtype": "",
+      "version": "2.3",
+      "romtype": "Official",
       "size": "613695717",
       "datetime": 1551859790,
       "id": "090d0a7049c756d93fec82ae21350880d645226f6bc4c1b5425f60a6c408a887",
