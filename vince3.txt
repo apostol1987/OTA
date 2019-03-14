@@ -2,8 +2,8 @@
   "response": [
 {
 • Added About section in Havoc Settings
-• Fixed QS panel padding
-• Fixed Power menu layout
-• Fixed Auto-hide clock
-• Some other fixes
-• Updated kernel to v0.6.0
+• Обновлены исходники по 13.03.2019
+• Новое ядро (Увеличена автономность работы)
+• Исправлена работа ночного режима
+• Lawnchair v2 заменен на CPL
+• Фикс отпечатка пальца
