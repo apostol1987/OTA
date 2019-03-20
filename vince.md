@@ -2,19 +2,14 @@
 
 
 
-1. Обновлены исходники по 17.03.2019
-2. В ядро добалена TTL фиксация
-3. Обновлены конфиги устройства
-4. Добавлен календарь Google
-5. Добавлена плавность интерфейса
-6. Отпечаток пальца теперь работает без фикса
+1. Обновлены исходники по 19.03.2019
+2. Новая Google камера под наш аппарат (заработала замедленная съемка)
+3. Улучшение звука MI (официальная поддержка)
+4. Удален CPL плагин погоды и ленты новостей Google (ставить отдельно)
+5. Обновлена метка часовых поясов
 Изменения от разработчика:
-• Added Expanded volume panel
-• Added WPS support
-• Added a toggle to hide user switcher in QS footer
-• Improved AOD on charge
-• Improved in-call vibration
-• Updated inbuilt GBoard themes
-• Fixed QS glitches
-• Fixed Lockscreen weather disappearing after SystemUI restart
-• Fixed less annoying notification sounds
+• Improved dark theme
+• Improved padding in statusbar
+• Fixed missing characters in default font
+• Fixed volume panel theming
+• Fixed HW buttons vibration with pie navbar
