@@ -13,4 +13,3 @@
 • Fixed missing characters in default font
 • Fixed volume panel theming
 • Fixed HW buttons vibration with pie navbar
-[Пост на 4PDA] <https://4pda.ru/forum/index.php?showtopic=887150&st=23580#entry82372841>
