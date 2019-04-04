@@ -2,25 +2,12 @@
 
 
 
-1. Вернули Лаунчер Lawnchair
-2. Доперевод новых настроек
-Обновление по 28.03.2019 от разработчика:
-• Added QS panel inspired by OOS
-• Added Music ticker inspired by Android Q
-• Added back the dividers in settings
-• Added back Screen-off animation
-• Added toggle to hide wifi icon
-• Added new icon for Sim toolkit
-• Added MD2 icons for power menu
-• Improved expanded volume panel layout
-• Improved and cleaned up Settings
-• Fixed OnePlus gestures in landscape
-• Fixed a few settings seekbars
-• Fixed some theme glitches
-• Fixed double vibration on pill navbar
-• Added systemwide adaptive icon setting
-• Added mobile data tile icon from OOS
-• Fixed proximity sensor issues in Dialer
-• Fixed partial screenshot
-• Fixed music ticker on AOD
-• Fixed multiuser icon glitch in QS footer
+Изменения по 04.04.2019
+1. Обновлен лаунчер до версии 2.1912
+Изменения от разработчика:
+• Обновлены исходники по 4.04.2019
+• Апрельский патч безопасности
+• Added media cover art filters
+• Added long squeeze actions for Pixel
+• Added Browser
+• Improved gaming mode tile
