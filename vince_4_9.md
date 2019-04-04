@@ -2,8 +2,10 @@
 
 
 
-1. Обновлены исходники устройства
-2. Обновлен вендор
-3. Обновлен лаунчер до версии 2.1905
-4. Miui камера заменена на камеру Google
-5. Добавлена Snap камера
+1. Апрельский патч безопасности
+2. Обновлен лаунчер до версии 2.1912
+Изменения от разработчика:
+• Added media cover art filters
+• Added long squeeze actions for Pixel
+• Added Browser
+• Improved gaming mode tile
