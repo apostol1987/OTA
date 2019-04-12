@@ -2,13 +2,21 @@
 
 
 
-Изменения по 04.04.2019
-1. Обновлен лаунчер до версии 2.1912
+Изменения по 11.04.2019
+1. Обновлен лаунчер до версии 2.1947
 2. Доперевод новых настроек
+3. В звонилку добавлена опция Максимальная яркость экрана
 Изменения от разработчика:
-• Обновлены исходники по 4.04.2019
-• Апрельский патч безопасности
-• Added media cover art filters
-• Added long squeeze actions for Pixel
-• Added Browser
-• Improved gaming mode tile
+• Dirac: Add QS tile
+• Added Agressive battery settings
+• Added deep sleep info to uptime
+• Added 2 more variants for Cover art filters
+• Added OnePlus Red accent color
+• Added Black Pearl theme color
+• Added Slim recents enter/exit animation
+• Added Statusbar logo customizations
+• Fixed Cover art blur for some music apps
+• Fixed screen unpinning with hw keys
+• Fixed old mobile type icons
+• Removed Browser temporarily
+• Imported translations from Crowdin
