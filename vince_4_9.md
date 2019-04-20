@@ -8,6 +8,7 @@
 4. Обновлено ядро до версии 4.9.170
 5. Обновлен vendor и device
 6. Исправлен Volte
+7. Обновлены Thermal конфиги
 Изменения от разработчика:
 • Added Android Q Text clock
 • Added Lava lamp for lockscreen visualizer
