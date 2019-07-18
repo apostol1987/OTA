@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.7-20190712-vince-Official.zip",
+      "filename": "Havoc-OS-v2.7-20190717-vince-Official.zip",
       "version": "2.7",
       "romtype": "Official",
-      "size": "619771509",
-      "datetime": 1562957457,
-      "id": "d0a5d9a20ebbe2a7b3e520b984f6033140094ead958f7f96bf30a410067f65ab",
-      "url": "https://sourceforge.net/projects/ota-vince/files/3.18/Havoc-OS-v2.7-20190712-vince-Official.zip/download"
+      "size": "619617958",
+      "datetime": 1563388153,
+      "id": "614573f9adbe78960b7ef60c5ad71f2656ee76366946eaad377f28e2f53edfc7",
+      "url": "https://sourceforge.net/projects/ota-vince/files/3.18/Havoc-OS-v2.7-20190717-vince-Official.zip/download"
     }
   ]
 }
