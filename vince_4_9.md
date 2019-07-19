@@ -2,9 +2,18 @@
 
 
 
-Список изменений от 10.07.2019
+Список изменений от 18.07.2019
+-Новое ядро 4.9.185
 -Правки и дополнения в переводе
--Лаунчер обновлен до версии 2305 Plus (русский мод)
--Обновлены исходники по 10.07.2019
+-Лаунчер обновлен до версии 2315 Plus (русский мод)
+-Обновлены исходники по 18.07.2019
 Изменения от разработчика:
-• Список изменений смотрите в Настройки Havoc→о системе→список изменений
+• Added Gaming mode QS tile
+• Improved Gaming mode
+• Improved OP gestures feedback duration
+• Improved Aggressive battery
+• Improved LiveDisplay
+• Improved Pocket lock
+• Fixed crash with some music players
+• Performance improvements
+• Other fixes and improvements
